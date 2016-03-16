@@ -11,3 +11,5 @@ Change the Octocat logo/link at the top right of the page to a picture of Justin
 
 #### After
 <img src="img/6b.png" width=400px>
+
+[Go to next challenge](challenge-7.md)

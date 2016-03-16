@@ -8,3 +8,5 @@ Change all of the commit messages to shruggy ¯\\_(ツ)_/¯
 
 #### After
 <img src="img/3b.png" width=400px>
+
+[Go to next challenge](challenge-4.md)

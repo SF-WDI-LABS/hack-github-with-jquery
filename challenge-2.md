@@ -8,4 +8,6 @@ Add the `btn-primary` class to all of the buttons on the screen.  This should ma
 
 #### After
 
-<img src="img/2b.png" widt  400p>
+<img src="img/2b.png" width=400p>
+
+[Go to next challenge](challenge-3.md)

@@ -10,3 +10,5 @@ Add a completely useless button that says `Delete Repository` to the right of th
 
 #### After
 <img src="img/7b.png" width=400px>
+
+[Go to next challenge](challenge-8.md)

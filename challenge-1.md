@@ -8,3 +8,5 @@ Change the name of the repository author (in this current case, nathanallen to `
 
 #### After
 <img src="img/1b.png" width=400px>
+
+[Go to next challenge](challenge-2.md)

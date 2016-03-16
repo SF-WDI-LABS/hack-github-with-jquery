@@ -8,3 +8,5 @@ Change the values of the Watch, Star, and Fork social count all to ∞ (infinity
 
 #### After
 <img src="img/5b.png" width=400px>
+
+[Go to next challenge](challenge-6.md)
