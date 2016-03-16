@@ -25,6 +25,7 @@ Change the name of the repository author (in this current case, nathanallen to `
 #### After
 <img src = "img/1b.png" width = 400px style="border: solid grey 3px">
 
+---
 
 <br><br><br>
 ## Challenge 2 - Add some class
@@ -36,8 +37,10 @@ Add the `btn-primary` class to all of the buttons on the screen.  This should ma
 <br>
 
 #### After
+
 <img src = "img/2b.png" width = 400px style="border: solid grey 3px">
 
+---
 
 <br><br><br>
 ## Challenge 3 - It's Shruggy!
@@ -50,7 +53,7 @@ Change all of the commit messages to shruggy ¯\\_(ツ)_/¯
 
 #### After
 <img src = "img/3b.png" width = 400px style="border: solid grey 3px">
-
+---
 
 <br><br><br>
 ## Challenge 4 - I'm the captain now.
@@ -64,6 +67,7 @@ Remove the user links on the top right of the screen.
 #### After
 <img src = "img/4b.png" width = 400px style="border: solid grey 3px">
 
+---
 
 <br><br><br>
 ## Challenge 5 - One big family
@@ -77,6 +81,7 @@ Change the values of the Watch, Star, and Fork social count all to ∞ (infinity
 #### After
 <img src = "img/5b.png" width = 400px style="border: solid grey 3px">
 
+---
 
 <br><br><br>
 ## Challenge 6 - JustinHub!
@@ -93,6 +98,7 @@ Change the Octocat logo/link at the top right of the page to a picture of Justin
 #### After
 <img src = "img/6b.png" width = 400px style="border: solid grey 3px">
 
+---
 
 <br><br><br>
 ## Challenge 7 - Nuclear Option
@@ -108,6 +114,7 @@ Add a completely useless button that says `Delete Repository` to the right of th
 #### After
 <img src = "img/7b.png" width = 400px style="border: solid grey 3px">
 
+---
 
 <br><br><br>
 ## Challenge 8 - Ugh, script kiddies
