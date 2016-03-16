@@ -17,8 +17,6 @@ Hit the docs to find out more about these methods: [jQuery DOM Manipulation Meth
 ## Challenges - [Solutions](solutions.md)
 Open your Chrome Javascript Console, and jump in!
 
-Put your solutions in a new `my-solutions.md` file.
-
 1. [Name Changer](challenge-1.md)
 1. [Add some class](challenge-2.md)
 1. [It's Shruggy!](challenge-3.md)
@@ -27,3 +25,8 @@ Put your solutions in a new `my-solutions.md` file.
 1. [JustinHub!](challenge-6.md)
 1. [Nuclear Option](challenge-7.md)
 1. [Ugh, script kiddies](challenge-8.md)
+
+## Submission
+Do not submit!
+<br><br><br><br><br>
+<img src="https://media.giphy.com/media/JOi0IO9ByxIHK/giphy.gif" width=400>
