@@ -9,4 +9,4 @@ Remove the user links on the top right of the screen.
 #### After
 <img src="img/4b.png" width=400px>
 
-[Go to next challenge](challenge-5.md)
+#### [Go to next challenge](challenge-5.md)
